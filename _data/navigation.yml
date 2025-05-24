@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "简介"
-    url: "/#-about-me"
+    url: "/#about-me"
 
   - title: "学历"
     url: "/#-xl"
