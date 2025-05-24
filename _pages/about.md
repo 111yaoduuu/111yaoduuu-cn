@@ -34,7 +34,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2013.06 - 2018.9*, <a href="https://www.ucas.ac.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 中国科学院大学 模式识别与智能系统, 工学博士
+- *2013.06 - 2018.9*, <a href="https://www.ucas.ac.cn/"><img class="svg" src="/images/UCAS_logo.svg" width="23pt"></a> 中国科学院大学 模式识别与智能系统, 工学博士
  
 <span class='anchor' id='-lwzl'></span>
 
