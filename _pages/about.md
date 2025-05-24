@@ -50,11 +50,11 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cancer Imaging 22, no. 1 (2022): 23</div><img src='images/Cancer Imaging 22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Wang, Zhihui, Houying Zhu, Xianqing Jia, Yongtang Bao, and `Changmiao Wang`. "Surface defect detection with modified real-time detector YOLOv3." Journal of Sensors 2022 (2022). (IF= 2.336, JCR Q3)
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	Zhang, Lu, Yicheng Jiang, Zhe Jin, Wenting Jiang, Bin Zhang, 	`Changmiao Wang`, Lingeng Wu et al. "Real-time automatic prediction of treatment response to transcatheter arterial chemoembolization in patients with hepatocellular carcinoma using deep learning based on digital subtraction angiography videos." Cancer Imaging 22, no. 1 (2022): 23. (IF= 5.605, JCR Q1)
+[[网页]](https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-022-00457-3) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
 </div>
