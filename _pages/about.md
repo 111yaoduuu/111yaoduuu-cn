@@ -26,6 +26,9 @@ redirect_from:
 目前，我已发表学术论文70余篇，研究成果获MICCAI Workshop CMMCA 2023最佳论文奖。在多模态学习与医疗AI领域，我专注于多源数据融合（如脑出血预后、肺腺癌分析、AD智能诊断）、医学图像生成（骨抑制、眼底跨模态生成）及疾病异常检测。
 
 如果您对相关研究或合作感兴趣，欢迎通过邮件联系我！
+📫 How to contact me: [wangcm@sribd.cn](wangcm@sribd.cn)
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/111yaoduuu">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/111yaoduuu">
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 <span class='anchor' id='-xl'></span>
