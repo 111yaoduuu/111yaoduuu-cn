@@ -164,7 +164,7 @@ redirect_from:
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-gzjl'></span>
 
 # 💻 工作经历
 - *2020.09 - 至今*, 深圳市大数据研究院，副研究员
