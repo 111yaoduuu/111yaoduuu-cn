@@ -30,7 +30,6 @@ redirect_from:
 📫 How to contact me: [wangcm@sribd.cn](wangcm@sribd.cn)
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/111yaoduuu">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/111yaoduuu">
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 <span class='anchor' id='-xl'></span>
 
