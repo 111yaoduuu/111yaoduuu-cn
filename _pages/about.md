@@ -44,142 +44,76 @@ redirect_from:
 # 🎓 学历
 - *2013.06 - 2018.9*, <a href="https://www.ucas.ac.cn/"><img class="jpg" src="/images/UCAS_logo.jpg" width="23pt"></a> 中国科学院大学 模式识别与智能系统, 工学博士
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-cblw'></span>
 
-# 📝 论文专利
+# 📝 出版论文
 
+请访问我的[谷歌学术](https://scholar.google.com/citations?user=WMkMTb4AAAAJ)页面以获取完整出版物
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cancer Imaging 22, no. 1 (2022): 23</div><img src='images/Cancer Imaging 22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+[Real-time automatic prediction of treatment response to transcatheter arterial chemoembolization in patients with hepatocellular carcinoma using deep learning based on digital subtraction angiography videos](https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-022-00457-3) (IF= 5.605, JCR Q1)
 
--	Zhang, Lu, Yicheng Jiang, Zhe Jin, Wenting Jiang, Bin Zhang, 	`Changmiao Wang`, Lingeng Wu et al. "Real-time automatic prediction of treatment response to transcatheter arterial chemoembolization in patients with hepatocellular carcinoma using deep learning based on digital subtraction angiography videos." Cancer Imaging 22, no. 1 (2022): 23. (IF= 5.605, JCR Q1)
-[[网页]](https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-022-00457-3) [[预览]](https://github.com/111yaoduuu/111yaoduuu.github.io/blob/master/pdf/Real-time%20automatic%20prediction%20of%20treatment%20response%20to%20transcatheter%20arterial%20chemoembolization%20in%20patients%20with%20hepatocellular%20carcinoma%20using%20deep%20learning%20based%20on%20digital%20subtraction%20angiography%20videos..pdf) [[下载]](r/pdf/Real-time%20automatic%20prediction%20of%20treatment%20response%20to%20transcatheter%20arterial%20chemoembolization%20in%20patients%20with%20hepatocellular%20carcinoma%20using%20deep%20learning%20based%20on%20digital%20subtraction%20angiography%20videos..pdf)
-
+Zhang, Lu, Yicheng Jiang, Zhe Jin, Wenting Jiang, Bin Zhang, **Changmiao Wang**, Lingeng Wu et al. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Journal of Sensors 2022 (2022)</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+[Surface defect detection with modified real-time detector YOLOv3](https://onlinelibrary.wiley.com/doi/10.1155/2022/8668149) (IF= 2.336, JCR Q3)
+
+Wang, Zhihui, Houying Zhu, Xianqing Jia, Yongtang Bao, and **Changmiao Wang**.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE Access 9 (2021): 111336-111345. </div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+[String Stability and Platoon Safety Analysis of a New Car-Following Model Considering a Stabilization Strategy.](https://ieeexplore.ieee.org/document/9507427) (IF= 5.785, JCR Q1)
+
+Mu, Mingfei, Junjie Zhang, **Changmiao Wang**, Jun Zhang, and Can Yang. 
 
 </div>
 </div>
 
+- [GP-GAN: Brain tumor growth prediction using stacked 3D generative adversarial networks from longitudinal MR Images](https://pubmed.ncbi.nlm.nih.gov/32977277/),Elazab, Ahmed, **Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Qingmao Hu, Tianfu Wang, Chunqi Chang, and Baiying Lei.Neural Networks 132 (2020): 321-332. (IF= 5.785, JCR Q1) 
 
-- Wang, Zhihui, Houying Zhu, Xianqing Jia, Yongtang Bao, and `Changmiao Wang`. "Surface defect detection with modified real-time detector YOLOv3." Journal of Sensors 2022 (2022). (IF= 2.336, JCR Q3)    
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+- [Automated chest screening based on a hybrid model of transfer learning and convolutional sparse denoising autoencoder](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-018-0496-2),**Changmiao Wang**, Ahmed Elazab, Fucang Jia, Jianhuang Wu, Qingmao Hu.Biomedical Engineering Online, 2018, 17(1): 63. (IF = 2.353, JCR Q1).
 
+- [Lung nodule classification using deep feature fusion in chest radiography](https://www.sciencedirect.com/science/article/abs/pii/S0895611116301021),**Changmiao Wang**, Ahmed Elazab, Jianhuang Wu, Qingmao Hu.Computerized Medical Imaging and Graphics, 2017, 57: 10-18. (IF = 3.298, JCR Q1).
 
-- Jiang, Wenting, Yicheng Jiang, Lu Zhang, `Changmiao Wang`, Xiaoguang Han, Shuixing Zhang, Xiang Wan, and Shuguang Cui. "Hepatocellular Carcinoma Segmentation from Digital Subtraction Angiography Videos Using Learnable Temporal Difference." In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part V, pp. 13-22. Cham: Springer International Publishing, 2021.（EI）  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
+- [医学图像分割及其发展现状](http://cjc.ict.ac.cn/online/onlinepaper/jgp-201561103550.pdf),江贵平, 秦文健, 周寿军, **王昌淼**.计算机学报, 2015, 38(6): 1222-1242. (EI).
 
--Elazab, Ahmed, `Changmiao Wang`, Syed Jamal Safdar Gardezi, Hongmin Bai, Qingmao Hu, Tianfu Wang, Chunqi Chang, and Baiying Lei. "GP-GAN: Brain tumor growth prediction using stacked 3D generative adversarial networks from longitudinal MR Images." Neural Networks 132 (2020): 321-332. (IF= 5.785, JCR Q1) 
-[[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
+- [Segmentation of Brain Tissues from Magnetic Resonance Images Using Adaptively Regularized Kernel-Based Fuzzy-Means Clustering](https://onlinelibrary.wiley.com/doi/10.1155/2015/485495),Ahmed Elazab, **Changmiao Wang**, Fucang Jia, Jianhuang Wu, Guanglin Li, Qingmao Hu. Computational and Mathematical Methods in Medicine, 2015, 2015(5): 1-12. (IF=1.563, JCR Q2).
 
--	Ahmed Elazab, `Changmiao Wang`, Syed Jamal Safdar Gardezi, Hongmin Bai, Tianfu Wang, Baiying Lei, Chunqi Chang. “Glioma Growth Prediction via Generative Adversarial Learning from Multi-Time Points Magnetic Resonance Images.” In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (EI).  
-[[网页]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[下载]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
+- [Approximating and learning by Lipschitz kernel on the sphere](https://link.springer.com/article/10.1007/s11766-014-2912-0),Feilong Cao, **Changmiao Wang**. Applied Mathematics-A Journal of Chinese Universities, 2014, 29(2): 151-161. (IF=0.806, JCR Q3).
 
--	Bo Liu, Heng Li, Yutao Zhou, Yuqing Peng, Ahmed Elazab and `Changmiao Wang`. A Super Resolution Method for Remote Sensing Images Based on Cascaded Conditional Wasserstein GANs. In 2020 3th IEEE International Conference on Information Communication and Signal Processing. (EI).  
-[[网页]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[下载]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
+- [The learning rate for regularized least-squares algorithm on the unit sphere](https://www.researchgate.net/publication/267471122_The_learning_rate_for_regularized_least-squares_algorithm_on_the_unit_sphere),Feilong Cao, **Changmiao Wang**. Journal of Computational Analysis and Applications, 2013, 15(1): 224-236. (IF=0.82, JCR Q4).
 
-- Zizheng Yan, Xiaoguang Han,`Changmiao Wang`, Yuda Qiu, Zixiang Xiong, Shuguang Cui. “Learning Mutually Local-Global U-Nets for High-Resolution Retinal Lesion Segmentation In Fundus Images.” 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019), Venice, Italy, 2019, 597-600. (EI).
-[[网页]](https://dx.doi.org/10.3233/JAE-209357) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[下载]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
+<span class='anchor' id='-yjxm'></span>
 
--	Qin Wang, Weibing Zhao, Chunhui Zhang, Liyue Zhang, `Changmiao Wang`, Zhen Li, Shuguang Cui, Guanbin Li. “3D Enhanced Multi-scale Network for Thoracic Organs Segmentation.” SegTHOR@ ISBI. 2019.
-[[网页]](https://dx.doi.org/10.3233/SAEM190009) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[下载]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
-
-- `Changmiao Wang`, Ahmed Elazab, Fucang Jia, Jianhuang Wu, Qingmao Hu. “Automated chest screening based on a hybrid model of transfer learning and convolutional sparse denoising autoencoder.” Biomedical Engineering Online, 2018, 17(1): 63. (IF = 2.353, JCR Q1).
-[[网页]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[下载]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
-
-- 江贵平, 秦文健, 周寿军,  `王昌淼`. “医学图像分割及其发展现状.” 计算机学报, 2015, 38(6): 1222-1242. (EI).
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) 
-
-- `Changmiao Wang`, Ahmed Elazab, Jianhuang Wu, Qingmao Hu. “Lung nodule classification using deep feature fusion in chest radiography.” Computerized Medical Imaging and Graphics, 2017, 57: 10-18. (IF = 3.298, JCR Q1).
-[[网页]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[下载]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
-
--	Ahmed Elazab,`Changmiao Wang`, Fucang Jia, Jianhuang Wu, Guanglin Li, Qingmao Hu. “Segmentation of Brain Tissues from Magnetic Resonance Images Using Adaptively Regularized Kernel-Based Fuzzy-Means Clustering.” Computational and Mathematical Methods in Medicine, 2015, 2015(5): 1-12. (IF=1.563, JCR Q2).  
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
-
--	Feilong Cao, `Changmiao Wang` “Approximating and learning by Lipschitz kernel on the sphere.” Applied Mathematics-A Journal of Chinese Universities, 2014, 29(2): 151-161. (IF=0.806, JCR Q3).
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
-
--Feilong Cao,  `Changmiao Wang`. “The learning rate for regularized least-squares algorithm on the unit sphere.” Journal of Computational Analysis and Applications, 2013, 15(1): 224-236. (IF=0.82, JCR Q4).
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
-
-
-### 中文
----
-
-- 江贵平, 秦文健, 周寿军,  `王昌淼`. “医学图像分割及其发展现状.” 计算机学报, 2015, 38(6): 1222-1242. (EI).
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-- 刘伯承, `唐健*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-- 	汪圣涵, `唐健*`, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65. (通讯作者; 核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-- 	邓永乐, 王荣彪, `唐健`, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10. (EI期刊)  
-[[网页]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[下载]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
-
-
-- 	王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, `唐健`. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6. (EI期刊)  
-[[网页]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	刘伯承, 段兆祺, 姜春, `唐健`, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5. (核心期刊)   
-[[网页]](https://dx.doi.org/10.11973/wsjc202211001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
-
-- 	刘伯承, `唐健`, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-
-- 	孟杰, 李二龙, `唐健`, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-
-- 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-### 专利
----
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-
-
-
-
-
-
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+# 🏅 研究项目
+- 国家科技部，**国家重点研发计划**“宽带通信和新型网络”重点专项，基于数据驱动和人工智能的未来新型网络演进，2018YFB1800800，*2019.07-2023.06*，4397万，在研，参与。
+- 广东省科学技术厅，**广东省重点研发计划**，类脑智能关键技术及系统研究，2018B030338001，*2019.01- 2021.12*， 3200万，结题，参与。  
+- **国家自然科学基金委员会**，面上项目， 61671440，基于磁敏感加权图像和弥散加权成像的超急性期缺血性脑卒中影像分析研究，*2017.01-2020.12*，58万元，结题，参与。
+- **国家自然科学基金委员会**，面上项目，61672510，个性化颅内动脉瘤介入手术模拟关键问题研究，*2017.01-2020.12*，63万元，结题，参与；
+- 广东省科学技术厅，**广东省重点研发计划**，类脑智能关键技术及系统研究，2018B030338001，*2019.01- 2021.12*， 3200万，结题，参与。  
+- **国家自然科学基金委员会**，面上项目，81771927，左心房流体力学变化介导的心房结构重构在心房纤颤的发生与发展作用及机制，*2018.01-2021.12*，50万元，结题，参与。
+- **国家自然科学基金委员会**，面上项目，72171156, 基于分布鲁棒优化和服务水平目标导向的库存-路径决策优化研究, *2022-01-01 至 2025-12-31*, 48万元, 在研, 参与。
+- 广东省科学技术厅，**广东省基础与应用基础研究基金**，青年项目，2022A1515110570，基于连续时间序列的早期肺腺癌亚型定性分析研究，*2022-10-1至2025-09-30*，10万，在研，主持。
+- 深圳市人力资源和社会保障局，**深圳市博士后留深科研资助**，视觉医疗影像分析，*2020-9-1至2023-08-31*，30万，在研，主持。
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- [Hepatocellular Carcinoma Segmentation from Digital Subtraction Angiography Videos Using Learnable Temporal Difference](https://arxiv.org/abs/2107.04306), Jiang, Wenting, Yicheng Jiang, Lu Zhang, **Changmiao Wang**, Xiaoguang Han, Shuixing Zhang, Xiang Wan, and Shuguang Cui. In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part V, pp. 13-22. Cham: Springer International Publishing, 2021.（EI）
+- [Glioma Growth Prediction via Generative Adversarial Learning from Multi-Time Points Magnetic Resonance Images](https://ieeexplore.ieee.org/document/9175817), Ahmed Elazab,**Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Tianfu Wang, Baiying Lei, Chunqi Chang. In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (EI).
+- [A Super Resolution Method for Remote Sensing Images Based on Cascaded Conditional Wasserstein GANs](https://ieeexplore.ieee.org/document/9232066),Bo Liu, Heng Li, Yutao Zhou, Yuqing Peng, Ahmed Elazab and **Changmiao Wang**.In 2020 3th IEEE International Conference on Information Communication and Signal Processing. (EI).
+- [Learning Mutually Local-Global U-Nets for High-Resolution Retinal Lesion Segmentation In Fundus Images](https://ieeexplore.ieee.org/document/8759579),Zizheng Yan, Xiaoguang Han, **Changmiao Wang**, Yuda Qiu, Zixiang Xiong, Shuguang Cui.2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019), Venice, Italy, 2019, 597-600. (EI).
+- [3D Enhanced Multi-scale Network for Thoracic Organs Segmentation](https://www.semanticscholar.org/paper/3D-Enhanced-Multi-scale-Network-for-Thoracic-Organs-Wang-Zhao/038ad1c0c25698028a2db5d879e4e2877ab8a4b4),Qin Wang, Weibing Zhao, Chunhui Zhang, Liyue Zhang, **Changmiao Wang**, Zhen Li, Shuguang Cui, Guanbin Li.SegTHOR@ ISBI. 2019.
 
 <span class='anchor' id='-gzjl'></span>
 
