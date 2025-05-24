@@ -23,7 +23,7 @@ redirect_from:
 
 在学术服务方面，我担任AAAI 2023/2024程序委员会委员、MIIS2022和ICASSP Shenzhen 2022分会主席，并长期为MICCAI等CCF A类会议及多个国际顶级期刊审稿。我是中国计算机学会（CCF）、中国图象图形学学会（CSIG）会员，并担任中国医疗保健国际交流促进会健康数据与数字医学分会委员、广东省生物医学工程学会智能医学影像分会委员。
 
-目前，我已发表学术论文70余篇，研究成果获MICCAI Workshop CMMCA 2023最佳论文奖。<a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。在多模态学习与医疗AI领域，我专注于多源数据融合（如脑出血预后、肺腺癌分析、AD智能诊断）、医学图像生成（骨抑制、眼底跨模态生成）及疾病异常检测。
+目前，我已发表学术论文70余篇，研究成果获MICCAI Workshop CMMCA 2023最佳论文奖。<a href='https://scholar.google.com/citations?user=47KhMXEAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。在多模态学习与医疗AI领域，我专注于多源数据融合（如脑出血预后、肺腺癌分析、AD智能诊断）、医学图像生成（骨抑制、眼底跨模态生成）及疾病异常检测。
 
 我的研究领域包括：
 - 智慧医疗
@@ -59,7 +59,7 @@ Zhang, Lu, Yicheng Jiang, Zhe Jin, Wenting Jiang, Bin Zhang, **Changmiao Wang**,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Journal of Sensors 2022 (2022)</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Journal of Sensors 2022 (2022)</div><img src='images/Journal of Sensors 2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Surface defect detection with modified real-time detector YOLOv3](https://onlinelibrary.wiley.com/doi/10.1155/2022/8668149) (IF= 2.336, JCR Q3)
@@ -69,15 +69,7 @@ Wang, Zhihui, Houying Zhu, Xianqing Jia, Yongtang Bao, and **Changmiao Wang**.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE Access 9 (2021): 111336-111345. </div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[String Stability and Platoon Safety Analysis of a New Car-Following Model Considering a Stabilization Strategy.](https://ieeexplore.ieee.org/document/9507427) (IF= 5.785, JCR Q1)
-
-Mu, Mingfei, Junjie Zhang, **Changmiao Wang**, Jun Zhang, and Can Yang. 
-
-</div>
-</div>
+- [String Stability and Platoon Safety Analysis of a New Car-Following Model Considering a Stabilization Strategy](https://ieeexplore.ieee.org/document/9507427),Mu, Mingfei, Junjie Zhang, Changmiao Wang*, Jun Zhang, and Can Yang. IEEE Access 9 (2021): 111336-111345. (IF= 5.785, JCR Q1)
 
 - [GP-GAN: Brain tumor growth prediction using stacked 3D generative adversarial networks from longitudinal MR Images](https://pubmed.ncbi.nlm.nih.gov/32977277/),Elazab, Ahmed, **Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Qingmao Hu, Tianfu Wang, Chunqi Chang, and Baiying Lei.Neural Networks 132 (2020): 321-332. (IF= 5.785, JCR Q1) 
 
