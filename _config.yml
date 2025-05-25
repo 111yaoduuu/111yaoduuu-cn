@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "王昌淼"
-description              : "模式识别与智能系统专业"
+description              : "副研究员"
 repository               : "111yaoduuu/111yaoduuu-cn"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "王昌淼"
   avatar           : "images/person.png"
-  bio              : "中国科学院大学"
+  bio              : "深圳市大数据研究院"
   location         : "广东 深圳"
-  employer         : "深圳市大数据院研究员"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=47KhMXEAAAAJ&hl=zh-CN"
   email            : "wangcm@sribd.cn"
