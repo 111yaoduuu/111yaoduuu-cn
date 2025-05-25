@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "王昌淼"
-  avatar           : "images/person.png"
+  avatar           : "images/avatar.png"
   bio              : "深圳市大数据研究院"
   location         : "广东 深圳"
   employer         : 
