@@ -29,7 +29,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2020.9*, <a href="https://www.ucas.ac.cn/"><img class="png" src="/images/CUHK.png" width="23pt"></a> 香港中文大学（深圳）、 <a href="https://www.cuhk.edu.cn/zh-hans"><img class="jpg" src="/images/UCAS_logo.jpg" width="23pt"></a>中国科学技术大学， 博士后 
+- *2020.9*, <a href="https://www.cuhk.edu.cn/zh-hans"><img class="png" src="/images/CUHK.png" width="23pt"></a> 香港中文大学（深圳）、 <a href="https://www.ucas.ac.cn/"><img class="jpg" src="/images/UCAS_logo.jpg" width="23pt"></a>中国科学技术大学， 博士后 
 - *2018.9*, <a href="https://www.siat.ac.cn/"><img class="jpg" src="/images/SIAT.jpg" width="23pt"></a> 中国科学院深圳先进技术研究院，模式识别与智能系统, 工学博士
  
 <span class='anchor' id='-cblw'></span>
