@@ -50,7 +50,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Sensors 2022 (2022)</div><img src='images/Journal of Sensors 2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--Wang, Zhihui, Houying Zhu, Xianqing Jia, Yongtang Bao, and **Changmiao Wang**."Surface defect detection with modified real-time detector YOLOv3." Journal of Sensors 2022 (2022). (IF= 2.336, JCR Q3)
+- Wang, Zhihui, Houying Zhu, Xianqing Jia, Yongtang Bao, and **Changmiao Wang**."Surface defect detection with modified real-time detector YOLOv3." Journal of Sensors 2022 (2022). (IF= 2.336, JCR Q3)
+
+  
 [[网页]](https://onlinelibrary.wiley.com/doi/10.1155/2022/8668149) [[下载]](/pdf/Journal of Sensors - 2022 - Wang - Surface Defect Detection with Modified Real‐Time Detector YOLOv3.pdf)
 
 </div>
