@@ -47,15 +47,15 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Journal of Sensors 2022 (2022)</div><img src='images/Journal of Sensors 2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Sensors 2022 (2022)</div><img src='images/Journal of Sensors 2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -Wang, Zhihui, Houying Zhu, Xianqing Jia, Yongtang Bao, and **Changmiao Wang**."Surface defect detection with modified real-time detector YOLOv3." Journal of Sensors 2022 (2022). (IF= 2.336, JCR Q3)
-
 [[网页]](https://onlinelibrary.wiley.com/doi/10.1155/2022/8668149) [[下载]](/pdf/Journal of Sensors - 2022 - Wang - Surface Defect Detection with Modified Real‐Time Detector YOLOv3.pdf)
 
 </div>
 </div>
+
 
 - [String Stability and Platoon Safety Analysis of a New Car-Following Model Considering a Stabilization Strategy](https://ieeexplore.ieee.org/document/9507427),Mu, Mingfei, Junjie Zhang, Changmiao Wang*, Jun Zhang, and Can Yang. IEEE Access 9 (2021): 111336-111345. (IF= 5.785, JCR Q1)
 
