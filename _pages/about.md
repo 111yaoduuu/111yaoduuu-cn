@@ -51,15 +51,14 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 - Wang, Zhihui, Houying Zhu, Xianqing Jia, Yongtang Bao, and **Changmiao Wang**."Surface defect detection with modified real-time detector YOLOv3." Journal of Sensors 2022 (2022). (IF= 2.336, JCR Q3)
-
-
 [[网页]](https://onlinelibrary.wiley.com/doi/10.1155/2022/8668149) [[下载]](/pdf/Journal of Sensors - 2022 - Wang - Surface Defect Detection with Modified Real‐Time Detector YOLOv3.pdf)
 
 </div>
 </div>
 
 
-- [String Stability and Platoon Safety Analysis of a New Car-Following Model Considering a Stabilization Strategy](https://ieeexplore.ieee.org/document/9507427),Mu, Mingfei, Junjie Zhang, Changmiao Wang*, Jun Zhang, and Can Yang. IEEE Access 9 (2021): 111336-111345. (IF= 5.785, JCR Q1)
+- Mu, Mingfei, Junjie Zhang, **Changmiao Wang**, Jun Zhang, and Can Yang.String Stability and Platoon Safety Analysis of a New Car-Following Model Considering a Stabilization Strategy. IEEE Access 9 (2021): 111336-111345. (IF= 5.785, JCR Q1)
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
 - [GP-GAN: Brain tumor growth prediction using stacked 3D generative adversarial networks from longitudinal MR Images](https://pubmed.ncbi.nlm.nih.gov/32977277/),Elazab, Ahmed, **Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Qingmao Hu, Tianfu Wang, Chunqi Chang, and Baiying Lei.Neural Networks 132 (2020): 321-332. (IF= 5.785, JCR Q1) 
 
