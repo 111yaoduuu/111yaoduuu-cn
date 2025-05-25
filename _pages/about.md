@@ -94,11 +94,20 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- [Hepatocellular Carcinoma Segmentation from Digital Subtraction Angiography Videos Using Learnable Temporal Difference](https://arxiv.org/abs/2107.04306), Jiang, Wenting, Yicheng Jiang, Lu Zhang, **Changmiao Wang**, Xiaoguang Han, Shuixing Zhang, Xiang Wan, and Shuguang Cui. In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part V, pp. 13-22. Cham: Springer International Publishing, 2021.（EI）
-- [Glioma Growth Prediction via Generative Adversarial Learning from Multi-Time Points Magnetic Resonance Images](https://ieeexplore.ieee.org/document/9175817), Ahmed Elazab,**Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Tianfu Wang, Baiying Lei, Chunqi Chang. In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (EI).
-- [A Super Resolution Method for Remote Sensing Images Based on Cascaded Conditional Wasserstein GANs](https://ieeexplore.ieee.org/document/9232066),Bo Liu, Heng Li, Yutao Zhou, Yuqing Peng, Ahmed Elazab and **Changmiao Wang**.In 2020 3th IEEE International Conference on Information Communication and Signal Processing. (EI).
-- [Learning Mutually Local-Global U-Nets for High-Resolution Retinal Lesion Segmentation In Fundus Images](https://ieeexplore.ieee.org/document/8759579),Zizheng Yan, Xiaoguang Han, **Changmiao Wang**, Yuda Qiu, Zixiang Xiong, Shuguang Cui.2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019), Venice, Italy, 2019, 597-600. (EI).
-- [3D Enhanced Multi-scale Network for Thoracic Organs Segmentation](https://www.semanticscholar.org/paper/3D-Enhanced-Multi-scale-Network-for-Thoracic-Organs-Wang-Zhao/038ad1c0c25698028a2db5d879e4e2877ab8a4b4),Qin Wang, Weibing Zhao, Chunhui Zhang, Liyue Zhang, **Changmiao Wang**, Zhen Li, Shuguang Cui, Guanbin Li.SegTHOR@ ISBI. 2019.
+- Jiang, Wenting, Yicheng Jiang, Lu Zhang, **Changmiao Wang**, Xiaoguang Han, Shuixing Zhang, Xiang Wan, and Shuguang Cui. "Hepatocellular Carcinoma Segmentation from Digital Subtraction Angiography Videos Using Learnable Temporal Difference." In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part V, pp. 13-22. Cham: Springer International Publishing, 2021.（EI）
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
+
+- Ahmed Elazab, **Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Tianfu Wang, Baiying Lei, Chunqi Chang. “Glioma Growth Prediction via Generative Adversarial Learning from Multi-Time Points Magnetic Resonance Images.” In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (EI).
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
+
+- Bo Liu, Heng Li, Yutao Zhou, Yuqing Peng, Ahmed Elazab and **Changmiao Wang**. A Super Resolution Method for Remote Sensing Images Based on Cascaded Conditional Wasserstein GANs. In 2020 3th IEEE International Conference on Information Communication and Signal Processing. (EI).
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
+
+- Zizheng Yan, Xiaoguang Han, **Changmiao Wang**, Yuda Qiu, Zixiang Xiong, Shuguang Cui. “Learning Mutually Local-Global U-Nets for High-Resolution Retinal Lesion Segmentation In Fundus Images.” 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019), Venice, Italy, 2019, 597-600. (EI).
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
+
+- Qin Wang, Weibing Zhao, Chunhui Zhang, Liyue Zhang, Changmiao Wang, Zhen Li, Shuguang Cui, Guanbin Li. “3D Enhanced Multi-scale Network for Thoracic Organs Segmentation.” SegTHOR@ ISBI. 2019.
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
 <span class='anchor' id='-gzjl'></span>
 
