@@ -60,19 +60,23 @@ redirect_from:
 - Mu, Mingfei, Junjie Zhang, **Changmiao Wang**, Jun Zhang, and Can Yang.String Stability and Platoon Safety Analysis of a New Car-Following Model Considering a Stabilization Strategy. IEEE Access 9 (2021): 111336-111345. (IF= 5.785, JCR Q1)
 [[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- [GP-GAN: Brain tumor growth prediction using stacked 3D generative adversarial networks from longitudinal MR Images](https://pubmed.ncbi.nlm.nih.gov/32977277/),Elazab, Ahmed, **Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Qingmao Hu, Tianfu Wang, Chunqi Chang, and Baiying Lei.Neural Networks 132 (2020): 321-332. (IF= 5.785, JCR Q1) 
+- Elazab, Ahmed, **Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Qingmao Hu, Tianfu Wang, Chunqi Chang, and Baiying Lei.GP-GAN: Brain tumor growth prediction using stacked 3D generative adversarial networks from longitudinal MR Images.Neural Networks 132 (2020): 321-332. (IF= 5.785, JCR Q1) 
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- [Automated chest screening based on a hybrid model of transfer learning and convolutional sparse denoising autoencoder](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-018-0496-2),**Changmiao Wang**, Ahmed Elazab, Fucang Jia, Jianhuang Wu, Qingmao Hu.Biomedical Engineering Online, 2018, 17(1): 63. (IF = 2.353, JCR Q1).
+- **Changmiao Wang**, Ahmed Elazab, Fucang Jia, Jianhuang Wu, Qingmao Hu. Automated chest screening based on a hybrid model of transfer learning and convolutional sparse denoising autoencoder. Biomedical Engineering Online, 2018, 17(1): 63. (IF = 2.353, JCR Q1).
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- [Lung nodule classification using deep feature fusion in chest radiography](https://www.sciencedirect.com/science/article/abs/pii/S0895611116301021),**Changmiao Wang**, Ahmed Elazab, Jianhuang Wu, Qingmao Hu.Computerized Medical Imaging and Graphics, 2017, 57: 10-18. (IF = 3.298, JCR Q1).
+- **Changmiao Wang**, Ahmed Elazab, Jianhuang Wu, Qingmao Hu. Lung nodule classification using deep feature fusion in chest radiography.Computerized Medical Imaging and Graphics, 2017, 57: 10-18. (IF = 3.298, JCR Q1).
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- [医学图像分割及其发展现状](http://cjc.ict.ac.cn/online/onlinepaper/jgp-201561103550.pdf),江贵平, 秦文健, 周寿军, **王昌淼**.计算机学报, 2015, 38(6): 1222-1242. (EI).
+- 江贵平, 秦文健, 周寿军, **王昌淼**. 医学图像分割及其发展现状. 计算机学报, 2015, 38(6): 1222-1242. (EI).
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- [Segmentation of Brain Tissues from Magnetic Resonance Images Using Adaptively Regularized Kernel-Based Fuzzy-Means Clustering](https://onlinelibrary.wiley.com/doi/10.1155/2015/485495),Ahmed Elazab, **Changmiao Wang**, Fucang Jia, Jianhuang Wu, Guanglin Li, Qingmao Hu. Computational and Mathematical Methods in Medicine, 2015, 2015(5): 1-12. (IF=1.563, JCR Q2).
+- Feilong Cao, **Changmiao Wang**. Approximating and learning by Lipschitz kernel on the sphere. Applied Mathematics-A Journal of Chinese Universities, 2014, 29(2): 151-161. (IF=0.806, JCR Q3).
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- [Approximating and learning by Lipschitz kernel on the sphere](https://link.springer.com/article/10.1007/s11766-014-2912-0),Feilong Cao, **Changmiao Wang**. Applied Mathematics-A Journal of Chinese Universities, 2014, 29(2): 151-161. (IF=0.806, JCR Q3).
-
-- [The learning rate for regularized least-squares algorithm on the unit sphere](https://www.researchgate.net/publication/267471122_The_learning_rate_for_regularized_least-squares_algorithm_on_the_unit_sphere),Feilong Cao, **Changmiao Wang**. Journal of Computational Analysis and Applications, 2013, 15(1): 224-236. (IF=0.82, JCR Q4).
+- Feilong Cao, **Changmiao Wang**. The learning rate for regularized least-squares algorithm on the unit sphere. Journal of Computational Analysis and Applications, 2013, 15(1): 224-236. (IF=0.82, JCR Q4).
+[[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
 <span class='anchor' id='-yjxm'></span>
 
