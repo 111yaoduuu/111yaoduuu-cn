@@ -17,32 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是王昌淼，目前担任深圳市大数据研究院和国家健康医疗大数据研究院研究员。我博士毕业于中国科学院大学模式识别与智能系统专业，并在香港中文大学（深圳）和中国科学技术大学从事博士后研究。作为广东省“珠江人才计划”创新团队“数据驱动的未来智能网络演进”的技术骨干，我于2020年入选深圳市龙岗区“深龙英才”，2024年获聘香港中文大学（深圳）“鹏城孔雀计划”特聘岗位。
+王昌淼，深圳市大数据研究院副研究员。博士毕业于中国科学院大学模式识别与智能系统专业，香港中文大学（深圳）和中国科学技术大学从事博士后研究。为广东省“珠江人才计划”创新团队“数据驱动的未来智能网络演进”的技术骨干，2020年深圳市龙岗区“深龙英才”，2024年获聘香港中文大学（深圳）“鹏城孔雀计划”特聘岗位。研究方向为医疗视觉影像分析，多模态学习，跨模态学习、强化学习及多模态大模型应用研究。
 
-近年来，我主持了广东省自然科学基金粤深联合基金青年项目、广东省自然科学基金面上项目、山东省高等学校青创科技支持计划项目及深圳市博士后留深资助项目，并参与多项国家级和省级科研项目，包括国家自然科学基金、国家重点研发计划“宽带通信和新型网络”重点专项，以及广东省重点研发计划“类脑智能关键技术及系统研究”。
-
-在学术服务方面，我担任AAAI 2023/2024程序委员会委员、MIIS2022和ICASSP Shenzhen 2022分会主席，并长期为MICCAI等CCF A类会议及多个国际顶级期刊审稿。我是中国计算机学会（CCF）、中国图象图形学学会（CSIG）会员，并担任中国医疗保健国际交流促进会健康数据与数字医学分会委员、广东省生物医学工程学会智能医学影像分会委员。
-
-目前，我已发表学术论文70余篇，研究成果获MICCAI Workshop CMMCA 2023最佳论文奖。<a href='https://scholar.google.com/citations?user=47KhMXEAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。在多模态学习与医疗AI领域，我专注于多源数据融合（如脑出血预后、肺腺癌分析、AD智能诊断）、医学图像生成（骨抑制、眼底跨模态生成）及疾病异常检测。
-
-我的研究领域包括：
-- 智慧医疗
-- 多模态学习
-- 人工智能
-- 计算机辅助诊断
-- 计算机视觉
-- 深度学习
+主持广东省自然科学基金粤深联合基金青年项目、广东省自然科学基金面上项目、山东省高等学校青创科技支持计划项目及深圳市博士后留深资助项目，参与4项国家自然科学基金、1项国家重点研发计划“宽带通信和新型网络”重点专项，1项广东省重点研发计划“类脑智能关键技术及系统研究”。担任AAAI 2023/2024程序委员会委员、MIIS2022和ICASSP Shenzhen 2022分会主席，并长期为MICCAI等CCF A类会议及多个国际顶级期刊审稿。担任中国医疗保健国际交流促进会健康数据与数字医学分会委员、广东省生物医学工程学会智能医学影像分会委员。
 
 如果您对相关研究或合作感兴趣，欢迎通过邮件联系我！
 
-📫 How to contact me: [wangcm@sribd.cn](wangcm@sribd.cn)
+📫 How to contact me: [cmwangalbert@gmail.com](cmwangalbert@gmail.com)
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/111yaoduuu">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/111yaoduuu">
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2013.06 - 2018.9*, <a href="https://www.ucas.ac.cn/"><img class="jpg" src="/images/UCAS_logo.jpg" width="23pt"></a> 中国科学院大学 模式识别与智能系统, 工学博士
+- *2020.9*, <a href="https://www.ucas.ac.cn/"><img class="jpg" src="/images/UCAS_logo.jpg" width="23pt"></a> 香港中文大学（深圳）、中国科学技术大学， 博士后 
+- *2018.9*, <a href="https://www.siat.ac.cn/"><img class="svg" src="/images/CAS_SIAT.svg" width="23pt"></a> 中国科学院深圳先进技术研究院，模式识别与智能系统, 工学博士
  
 <span class='anchor' id='-cblw'></span>
 
