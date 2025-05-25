@@ -42,7 +42,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	Zhang, Lu, Yicheng Jiang, Zhe Jin, Wenting Jiang, Bin Zhang, **Changmiao Wang**, Lingeng Wu et al.  "Real-time automatic prediction of treatment response to transcatheter arterial chemoembolization in patients with hepatocellular carcinoma using deep learning based on digital subtraction angiography videos." Cancer Imaging 22, no. 1 (2022): 23. (IF= 5.605, JCR Q1)
-[[网页]](https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-022-00457-3) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[网页]](https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-022-00457-3) [[下载]](/pdf/Real-time automatic prediction of treatment response to transcatheter arterial chemoembolization in patients with hepatocellular carcinoma using deep learning based on digital subtraction angiography videos.pdf)
 
 </div>
 </div>
