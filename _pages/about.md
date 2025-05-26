@@ -63,19 +63,19 @@ redirect_from:
 - Elazab, Ahmed, **Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Qingmao Hu, Tianfu Wang, Chunqi Chang, and Baiying Lei.GP-GAN: Brain tumor growth prediction using stacked 3D generative adversarial networks from longitudinal MR Images.Neural Networks 132 (2020): 321-332. (IF= 5.785, JCR Q1) 
 [[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- **Changmiao Wang**, Ahmed Elazab, Fucang Jia, Jianhuang Wu, Qingmao Hu. Automated chest screening based on a hybrid model of transfer learning and convolutional sparse denoising autoencoder. Biomedical Engineering Online, 2018, 17(1): 63. (IF = 2.353, JCR Q1).
+- **Changmiao Wang**, Ahmed Elazab, Fucang Jia, Jianhuang Wu, Qingmao Hu. Automated chest screening based on a hybrid model of transfer learning and convolutional sparse denoising autoencoder. Biomedical Engineering Online, 2018, 17(1): 63. (IF = 2.353, JCR Q1)
 [[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- **Changmiao Wang**, Ahmed Elazab, Jianhuang Wu, Qingmao Hu. Lung nodule classification using deep feature fusion in chest radiography.Computerized Medical Imaging and Graphics, 2017, 57: 10-18. (IF = 3.298, JCR Q1).
+- **Changmiao Wang**, Ahmed Elazab, Jianhuang Wu, Qingmao Hu. Lung nodule classification using deep feature fusion in chest radiography.Computerized Medical Imaging and Graphics, 2017, 57: 10-18. (IF = 3.298, JCR Q1)
 [[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- 江贵平, 秦文健, 周寿军, **王昌淼**. 医学图像分割及其发展现状. 计算机学报, 2015, 38(6): 1222-1242. (EI).
+- 江贵平, 秦文健, 周寿军, **王昌淼**. 医学图像分割及其发展现状. 计算机学报, 2015, 38(6): 1222-1242. (EI)
 [[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- Feilong Cao, **Changmiao Wang**. Approximating and learning by Lipschitz kernel on the sphere. Applied Mathematics-A Journal of Chinese Universities, 2014, 29(2): 151-161. (IF=0.806, JCR Q3).
+- Feilong Cao, **Changmiao Wang**. Approximating and learning by Lipschitz kernel on the sphere. Applied Mathematics-A Journal of Chinese Universities, 2014, 29(2): 151-161. (IF=0.806, JCR Q3)
 [[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
-- Feilong Cao, **Changmiao Wang**. The learning rate for regularized least-squares algorithm on the unit sphere. Journal of Computational Analysis and Applications, 2013, 15(1): 224-236. (IF=0.82, JCR Q4).
+- Feilong Cao, **Changmiao Wang**. The learning rate for regularized least-squares algorithm on the unit sphere. Journal of Computational Analysis and Applications, 2013, 15(1): 224-236. (IF=0.82, JCR Q4)
 [[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
 <span class='anchor' id='-yjxm'></span>
@@ -94,7 +94,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- Jiang, Wenting, Yicheng Jiang, Lu Zhang, **Changmiao Wang**, Xiaoguang Han, Shuixing Zhang, Xiang Wan, and Shuguang Cui. "Hepatocellular Carcinoma Segmentation from Digital Subtraction Angiography Videos Using Learnable Temporal Difference." In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part V, pp. 13-22. Cham: Springer International Publishing, 2021.（EI）
+- Jiang, Wenting, Yicheng Jiang, Lu Zhang, **Changmiao Wang**, Xiaoguang Han, Shuixing Zhang, Xiang Wan, and Shuguang Cui. "Hepatocellular Carcinoma Segmentation from Digital Subtraction Angiography Videos Using Learnable Temporal Difference." In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part V, pp. 13-22. Cham: Springer International Publishing, 2021.（EI）.
 [[网页]](https://ieeexplore.ieee.org/document/9507427)  [[下载]](/pdf/String_Stability_and_Platoon_Safety_Analysis_of_a_New_Car-Following_Model_Considering_a_Stabilization_Strategy.pdf)
 
 - Ahmed Elazab, **Changmiao Wang**, Syed Jamal Safdar Gardezi, Hongmin Bai, Tianfu Wang, Baiying Lei, Chunqi Chang. “Glioma Growth Prediction via Generative Adversarial Learning from Multi-Time Points Magnetic Resonance Images.” In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (EI).
