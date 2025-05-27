@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "简介"
+  - title: "个人简介"
     url: "/#about-me"
 
-  - title: "学历"
+  - title: "教育经历"
     url: "/#-xl"
 
-  - title: "出版论文"
+  - title: "研究发表"
     url: "#-cblw"
 
   - title: "研究项目"
